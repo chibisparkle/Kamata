@@ -1,0 +1,99 @@
+Supervised Learning
+Unsupervised Learning
+Reinforcement Learning
+Multi-task Learning
+Neural Networks
+Deep Learning
+Logical & Relational Learning
+Association Rule Learning
+Instance-based
+instance learning
+Probabilistic Learning Techniques
+Rule-based Learning
+Latent Representations
+Bio-inspired Techniques
+Classification
+Decision Trees
+Generative Systems
+Transfer Learning
+State-action Models
+Semi-supervised Learning
+Model Training
+Similarity
+Learning
+advanced
+Metric Learning
+Clustering
+Models
+Regression Analysis
+Collaborative Learning
+Federated Learning
+Distributed Learning
+Multi agent Systems
+Swarm Intelligence
+Description Logics
+Evolutionary & Genetic Algorithms
+Decision Networks
+Search & Generic Optimisation
+Probabilistic & Statistical Techniques
+Model Agnostic Techniques
+Model Specific Techniques
+Explainable Algorithms
+Reasonable Techniques
+Continuous Evaluation
+Joint Prediction
+Traceable Techniques
+Non-falsifiable Reasoning
+Spatial Reasoning
+Case-based Reasoning
+Nonmonotonic Reasoning
+Causal Reasoning
+Knowledge Representation
+Ontology
+Semantic Graph
+Knowledge base
+knowledge-based
+Knowledge Library
+Repository
+Fuzzy Logic
+Inference Engines
+Logic Programming
+Expert
+neural network
+overfitting
+natural language processing
+NLP
+bias
+confusion
+matrix
+convolution
+machine learning
+artificial intelligence
+convolutional
+decision tree
+dataset
+deep
+neural
+dqn
+feature vector
+tensor
+false negative
+false positive
+generalization
+linear model
+Nash
+hash
+game
+kernel
+KSVM
+k-means
+k means
+tree
+mean-shift
+clustering
+density-based
+density based
+expectation
+maximization
+(EM)
+minimax

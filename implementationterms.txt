@@ -1,0 +1,47 @@
+5G
+Analytics System
+Cloud Network
+Distributed Network
+Commns Networks
+Radio
+Telecom
+Wireless
+3G
+4G
+LTE
+General Radio
+Database
+Wireless Device
+IoT
+M2M
+Sensor
+Automation
+Drone
+Media Delivery
+AR/VR
+Augmented Reality
+Virtual Reality
+Media Devices
+Operator Networks
+OSS
+BSS
+core
+OTT
+Security Systems
+Social Network
+Social Media
+Ads
+UE
+Network Node
+Base station
+RAN
+D2D
+eNB
+user equipment
+PUSCH
+PUUCH
+Short Range Wireless
+Bluetooth
+WiFi
+NFC
+LiFi
